@@ -10,7 +10,7 @@ function Footer() {
   };
   return (
     <div>
-    <p>weather app</p>
+   
     </div>
   );
 }
