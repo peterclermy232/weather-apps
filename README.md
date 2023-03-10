@@ -17,3 +17,6 @@ Get Your OpenWeatherMap API KEY here: https://home.openweathermap.org/api_keys
 - Change the desired value. _eg_ API Key
 
 
+note
+
+the API KEY might take couples of hours to work, 
