@@ -333,7 +333,11 @@ img {
   padding-top: 4rem;
   flex-wrap: wrap;
 }
-
+img{
+  width: 70px;
+  height: 60px;
+  
+}
 .footer a {
   text-decoration: none;
   display: flex;
